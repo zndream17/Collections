@@ -18,4 +18,4 @@ var sortObject = function(o) {
 
 	return sorted;
 
-}
+};
